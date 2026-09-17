@@ -1,6 +1,6 @@
 # Akuarium
 
-A transparent desktop aquarium for Linux — fish, flora, starfish, crustaceans, bubbles, and light effects sitting under your windows.
+Akuarium is a desktop aquarium. All graphical assets are photos i shot myself. the code is written by AI, no idea how it actually works.
 
 ## Requirements
 
@@ -28,7 +28,7 @@ Edit `akuarium.desktop` so `Exec` and `Path` point at your install directory, th
 ## Features
 
 - Click-through transparent overlay that stays under other windows
-- Shop for fish, krustaceans, starfish, and flora (drop PNGs into the asset folders)
+- Shop for fish, krustaceans, starfish, and flora (drop PNGs into the asset folders to add more)
 - God rays, frost, blur, bubbles, and relics
 - Optional **Cooler Boost** reaction on MSI laptops (`msi-ec`), with a fan-RPM fallback on other machines that expose hwmon fans
 
