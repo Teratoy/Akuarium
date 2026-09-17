@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Akuarium
+GenericName=Aquarium Simulator
+Comment=Transparent-window aquarium with flora and fish
+Exec=python3 /path/to/Akuarium/akuarium.py
+Path=/path/to/Akuarium
+Icon=akuarium
+Categories=Game;Amusement;
+Keywords=aquarium;fish;desktop;overlay;
+Terminal=false
+StartupNotify=false
+NoDisplay=false
